@@ -1,6 +1,6 @@
 {
   "name": "sheetify-jstransformer",
-  "version": "1.0.0-0",
+  "version": "1.0.0",
   "description": "jstransformer plugin for sheetify.",
   "homepage": "https://github.com/seangenabe/sheetify-jstransformer",
   "author": "Sean Genabe <seangenabe@outlook.com>",
