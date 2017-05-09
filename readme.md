@@ -1,5 +1,7 @@
 # sheetify-jstransform
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seangenabe/sheetify-jstransformer.svg)](https://greenkeeper.io/)
+
 [jstransformer](https://www.npmjs.com/package/jstransformer) plugin for [sheetify](https://www.npmjs.com/package/sheetify).
 
 ## Usage
